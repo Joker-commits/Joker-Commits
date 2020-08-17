@@ -1,10 +1,10 @@
 # About
 
-### Hey ! It's ```Ofisial``` :D
+### Hey ! It's ```Mani_Madhuri``` :D
 
 -  **Learning :** Everything Which is Possible :fire:	
--  **Languages :** Obviously ```English``` :laughing:
--  **Hobbies :** Eat and Sleep , Memes , Music & Movies :headphones:
+-  **Languages :** Obviously ```English & Telugu``` :laughing:
+-  **Hobbies :** Eat and Sleep , Work , Music & Movies :headphones:
 -  **Fact :** Wait ! What Facts ?? :heart: 
 - **Dr APJ Said :** ```“All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.” ```
 
@@ -12,10 +12,10 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ofisial&show_icons=true&title_color=8571FF&icon_color=E4FF6B&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Joker-commits&show_icons=true&title_color=8571FF&icon_color=E4FF6B&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ofisial&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joker-commits&layout=compact&theme=radical)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
